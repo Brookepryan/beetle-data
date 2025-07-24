@@ -9,6 +9,6 @@ Data from beetle surveys + trapping at sedgwick
 - visual_surveys_all.csv: combined uncleaned data 
 
 #### cleaned_data
-- combined_data_clean.csv: up to date visual survey data from burn and cointrol plots
+- combined_data_clean.csv: up to date visual survey data from burn and control plots
 - quag_clean.csv: clean data for only quag
 - qudo_clean.csv: clean data for only qudo
