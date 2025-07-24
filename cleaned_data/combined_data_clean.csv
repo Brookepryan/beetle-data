@@ -1,0 +1,604 @@
+"date","tree_id","tree_sp","tree_cond","symptoms","num_holes","notes","tree_cond_num","burn_status","grouped_date"
+2024-12-09,"2381","qudo","excellent","holes",3,NA,4,"unburned",2024-12-01
+2024-12-09,"2384","qudo","excellent","holes",3,NA,4,"unburned",2024-12-01
+2024-12-09,"2367","qudo","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"2365","qudo","fair","holes, galleries",15,NA,2,"unburned",2024-12-01
+2024-12-09,"2369","qudo","fair","holes",15,NA,2,"unburned",2024-12-01
+2024-12-09,"2366","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"2364","qudo","good","holes",25,NA,3,"unburned",2024-12-01
+2024-12-09,"2363","qudo","good","holes",0,NA,3,"unburned",2024-12-01
+2024-12-09,"2362","qudo","fair","holes",25,NA,2,"unburned",2024-12-01
+2024-12-09,"2370","qudo","excellent","holes",15,NA,4,"unburned",2024-12-01
+2024-12-09,"2371","qudo","good","holes",15,NA,3,"unburned",2024-12-01
+2024-12-09,"2372","qudo","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"2345","quag","excellent","holes, galleries",15,NA,4,"unburned",2024-12-01
+2024-12-09,"2383","qudo","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"2010","qudo","good","holes, fungus, wet stain",15,NA,3,"unburned",2024-12-01
+2024-12-09,"32?","qudo","fair","none",0,NA,2,"unburned",2024-12-01
+2024-12-09,"2352","quag","excellent","none",0,NA,4,"unburned",2024-12-01
+2024-12-09,"2353","quag","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"2355","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"2354","quag","excellent","holes, pitch tube?",3,NA,4,"unburned",2024-12-01
+2024-12-09,"2373","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"2305","qudo","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"2304","qudo","good","none",0,"black spots, see pic",3,"unburned",2024-12-01
+2024-12-09,"2303","qudo","good","none",0,"poss. holes higher up",3,"unburned",2024-12-01
+2024-12-09,"2301","quag","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"2306","qudo","good","holes",7.5,NA,3,"unburned",2024-12-01
+2024-12-09,"2307","quag","good","holes",15,NA,3,"unburned",2024-12-01
+2024-12-09,"2308","qudo","fair","holes, galleries",3,NA,2,"unburned",2024-12-01
+2025-01-16,"2010","qudo","excellent","hole",3,NA,4,"unburned",2025-01-16
+2025-01-16,"2011","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2370","qudo","good","holes, peeled bark/staining",15,"see pic",3,"unburned",2025-01-16
+2025-01-16,"2371","qudo","good","peeling bark/stains",0,NA,3,"unburned",2025-01-16
+2025-01-16,"2372","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"2308","qudo","fair","black goo",0,NA,2,"unburned",2025-01-16
+2025-01-16,"2373","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2306","qudo","good","holes",7.5,NA,3,"unburned",2025-01-16
+2025-01-16,"2305","qudo","good","holes",3,NA,3,"unburned",2025-01-16
+2025-01-16,"2304","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"2303","qudo","good","black holes",0,NA,3,"unburned",2025-01-16
+2025-01-16,"2302","qudo","fair","fungus, holes",3,"see pics",2,"unburned",2025-01-16
+2025-01-16,"2301","quag","good","holes",3,NA,3,"unburned",2025-01-16
+2025-01-16,"2334","qudo","fair","none",0,NA,2,"unburned",2025-01-16
+2025-01-16,"2336","qudo","fair","hole",7.5,NA,2,"unburned",2025-01-16
+2025-01-16,"2381","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2384","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2345","quag","excellent","holes",7.5,NA,4,"unburned",2025-01-16
+2025-01-16,"2344","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2343","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2341","qudo","good","holes",15,NA,3,"unburned",2025-01-16
+2025-01-16,"2340","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2338","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"2337","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"2339","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"2342","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"se183","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-03-04,"2011","qudo","excellent","fungus",0,NA,4,"unburned",2025-03-04
+2025-03-04,"2353","quag","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2355","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"2356","qudo","fair","holes",25,NA,2,"unburned",2025-03-04
+2025-03-04,"2357","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2358","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2359","qudo","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"2354","quag","good","holes, fungus",35,NA,3,"unburned",2025-03-04
+2025-03-04,"2370","qudo","good","holes, fungus",35,NA,3,"unburned",2025-03-04
+2025-03-04,"2371","qudo","good","holes, wet stain",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2372","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2308","qudo","fair","black goo",0,NA,2,"unburned",2025-03-04
+2025-03-04,"2306","qudo","fair","holes, fungus",25,NA,2,"unburned",2025-03-04
+2025-03-04,"2307","qudo","fair","holes, fungus",25,NA,2,"unburned",2025-03-04
+2025-03-04,"2373","qudo","excellent","none",0,NA,4,"unburned",2025-03-04
+2025-03-04,"2304","qudo","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"2305","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2303","qudo","excellent","none",0,NA,4,"unburned",2025-03-04
+2025-03-04,"2302","qudo","good","fungus, holes",25,NA,3,"unburned",2025-03-04
+2025-03-04,"2301","quag","good","holes",3,NA,3,"unburned",2025-03-04
+2025-03-04,"2009","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2351","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2350","qudo","fair",NA,0,NA,2,"unburned",2025-03-04
+2025-03-04,"2349","qudo","fair","holes",3,NA,2,"unburned",2025-03-04
+2025-03-04,"2348","qudo","good","holes",15,NA,3,"unburned",2025-03-04
+2025-03-04,"2347","qudo","fair","holes",3,NA,2,"unburned",2025-03-04
+2025-03-04,"2346","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2344","qudo","fair","holes",3,NA,2,"unburned",2025-03-04
+2025-03-04,"2343","qudo","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"2341","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"2338","qudo","good","holes",3,NA,3,"unburned",2025-03-04
+2025-03-04,"2340","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2342","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2339","qudo","fair",NA,0,NA,2,"unburned",2025-03-04
+2025-03-04,"2337","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2381","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2384","qudo","fair","holes",25,NA,2,"unburned",2025-03-04
+2025-03-04,"2382","qudo","fair","holes",25,NA,2,"unburned",2025-03-04
+2025-03-04,"2010","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2367","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2369","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2366","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"2365","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2364","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2363","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"2362","qudo","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"2361","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2360","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"2345","quag","excellent","holes",50,NA,4,"unburned",2025-03-04
+2025-03-04,"2375","qudo","good","holes",15,NA,3,"unburned",2025-03-04
+2025-04-12,"2381","qudo","excellent","fungus, holes",3,NA,4,"unburned",2025-04-12
+2025-04-12,"2384","qudo","good","holes",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"2382","qudo","good","holes",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"2011","qudo","excellent","holes, fungus",3,NA,4,"unburned",2025-04-12
+2025-04-12,"2360","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2361","qudo","good","holes, galleries",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"2362","qudo","fair","holes, fungus",15,NA,2,"unburned",2025-04-12
+2025-04-12,"2363","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2364","qudo","good","holes",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"2366","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2369","qudo","good","holes",3,NA,3,"unburned",2025-04-12
+2025-04-12,"2367","qudo","good","holes",30,NA,3,"unburned",2025-04-12
+2025-04-12,"2370","qudo","excellent","holes, fungus",7.5,NA,4,"unburned",2025-04-12
+2025-04-12,"2371","qudo","excellent","holes",3,NA,4,"unburned",2025-04-12
+2025-04-12,"2372","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2308","qudo","fair","holes, fungus, wet stain",3,NA,2,"unburned",2025-04-12
+2025-04-12,"2307","qudo","fair","holes, fungus",25,NA,2,"unburned",2025-04-12
+2025-04-12,"2306","qudo","good","holes, fungus",15,NA,3,"unburned",2025-04-12
+2025-04-12,"2373","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"2305","qudo","good","holes, fungus",3,NA,3,"unburned",2025-04-12
+2025-04-12,"2304","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"2303","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2302","qudo","good","holes, fungus",15,NA,3,"unburned",2025-04-12
+2025-04-12,"2301","quag","good","holes",3,NA,3,"unburned",2025-04-12
+2025-04-12,"2339","qudo","fair","none",0,NA,2,"unburned",2025-04-12
+2025-04-12,"2337","qudo","fair","holes, fungus",3,NA,2,"unburned",2025-04-12
+2025-04-12,"2342","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2340","qudo","fair","holes",3,NA,2,"unburned",2025-04-12
+2025-04-12,"2338","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2341","qudo","good","holes, fungus",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"2343","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"2344","qudo","good","holes, fungus",3,NA,3,"unburned",2025-04-12
+2025-04-12,"2346","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2347","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2348","qudo","good","holes",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"2349","qudo","good","holes",3,NA,3,"unburned",2025-04-12
+2025-04-12,"2350","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"2351","qudo","fair","holes",3,NA,2,"unburned",2025-04-12
+2025-04-12,"2375","qudo","good","holes",3,NA,3,"unburned",2025-04-12
+2024-12-09,"93","qudo","poor","none",0,NA,1,"unburned",2024-12-01
+2024-12-09,"675","qudo","fair","holes",3,NA,2,"unburned",2024-12-01
+2024-12-09,"119","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"120","qudo","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"121","quag","excellent","holes, fungis",3,"see pic",4,"unburned",2024-12-01
+2024-12-09,"122","qudo","excellent","none",0,NA,4,"unburned",2024-12-01
+2024-12-09,"127","quag","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"99","qudo","poor","holes, galleries",25,NA,1,"unburned",2024-12-01
+2024-12-09,"100","quag","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"104","quag","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"102","quag","excellent","none",0,NA,4,"unburned",2024-12-01
+2024-12-09,"103","quag","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"110","quag","fair","holes",3,NA,2,"unburned",2024-12-01
+2024-12-09,"115","quag","fair","holes",3,NA,2,"unburned",2024-12-01
+2024-12-09,"116","quag","fair","holes",7.5,NA,2,"unburned",2024-12-01
+2024-12-09,"114","quag","fair","holes, wet stain",25,NA,2,"unburned",2024-12-01
+2024-12-09,"137","qudo","excellent","none",0,NA,4,"unburned",2024-12-01
+2024-12-09,"117","qudo","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"139","qudo","poor","holes, galleries, fungus",45,"see pic",1,"unburned",2024-12-01
+2024-12-09,"140","qudo","fair","none",0,NA,2,"unburned",2024-12-01
+2024-12-09,"141","qudo","fair","holes",3,NA,2,"unburned",2024-12-01
+2024-12-09,"126","qudo","excellent","none",0,NA,4,"unburned",2024-12-01
+2024-12-09,"97","qudo","poor","holes, fungus, galleries",45,"see pic",1,"unburned",2024-12-01
+2024-12-09,"88","qudo","poor","holes",45,NA,1,"unburned",2024-12-01
+2024-12-09,"125","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"123","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"135","qudo","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"134","quag","good","none",0,NA,3,"unburned",2024-12-01
+2024-12-09,"130","qudo","poor","holes, galleries",45,NA,1,"unburned",2024-12-01
+2024-12-09,"131","quag","good","holes, boring dust",25,NA,3,"unburned",2024-12-01
+2024-12-09,"132","quag","good","holes",3,NA,3,"unburned",2024-12-01
+2024-12-09,"128","qudo","excellent","holes",3,NA,4,"unburned",2024-12-01
+2024-12-09,"112","quag","excellent","none",0,NA,4,"unburned",2024-12-01
+2024-12-09,"118","qudo","good","holes, wet stain, galleries",45,NA,3,"unburned",2024-12-01
+2024-12-09,"110","quag","excellent","none",0,NA,4,"unburned",2024-12-01
+2025-01-16,"101","quag","fair","holes",45,NA,2,"unburned",2025-01-16
+2025-01-16,"102","quag","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"103","quag","excellent","wet staining",0,NA,4,"unburned",2025-01-16
+2025-01-16,"104","quag","fair","holes",3,NA,2,"unburned",2025-01-16
+2025-01-16,"100","quag","good","holes",3,NA,3,"unburned",2025-01-16
+2025-01-16,"110","quag","good","holes",7.5,NA,3,"unburned",2025-01-16
+2025-01-16,"109","quag","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"108","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"111","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"116","quag","good","holes",3,NA,3,"unburned",2025-01-16
+2025-01-16,"115","quag","fair","holes",7.5,NA,2,"unburned",2025-01-16
+2025-01-16,"137","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"117","qudo","excellent","wet staining",0,NA,4,"unburned",2025-01-16
+2025-01-16,"93","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"119","qudo","fair","holes",3,NA,2,"unburned",2025-01-16
+2025-01-16,"120","qudo","good","holes, galleries",7.5,NA,3,"unburned",2025-01-16
+2025-01-16,"121","quag","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"122","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"123","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"125","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"126","quag","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"127","quag","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"98","qudo","poor","holes, galleries",35,NA,1,"unburned",2025-01-16
+2025-01-16,"97","qudo","poor","holes, galleries",35,NA,1,"unburned",2025-01-16
+2025-01-16,"99","quag","poor","holes, galleries",35,NA,1,"unburned",2025-01-16
+2025-01-16,"105","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"106","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"107","qudo","fair","holes, fungus",15,NA,2,"unburned",2025-01-16
+2025-01-16,"128","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"130","qudo","poor","holes, galleiries",25,NA,1,"unburned",2025-01-16
+2025-01-16,"131","quag","excellent","holes",7.5,NA,4,"unburned",2025-01-16
+2025-01-16,"132","quag","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"134","quag","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"135","qudo","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-01-16,"136","qudo","good","holes",3,NA,3,"unburned",2025-01-16
+2025-01-16,"139","qudo","poor","holes, fungus, galleries",25,NA,1,"unburned",2025-01-16
+2025-01-16,"140","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"141","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"142","qudo","good","none",0,NA,3,"unburned",2025-01-16
+2025-01-16,"112","quag","excellent","none",0,NA,4,"unburned",2025-01-16
+2025-03-04,"535","quag","fair","holes, fungus",15,NA,2,"unburned",2025-03-04
+2025-03-04,"533/532","quag","fair","fungus, wet stain, holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"119","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"120","qudo","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"121","quag","good","holes, fungus",15,NA,3,"unburned",2025-03-04
+2025-03-04,"122","qudo","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"123","qudo","good","staining, holes",3,NA,3,"unburned",2025-03-04
+2025-03-04,"125","qudo","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"127","quag","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"126","qudo","excellent","none",0,NA,4,"unburned",2025-03-04
+2025-03-04,"97","qudo","poor","holes, fungus , wet stains, galleries",50,NA,1,"unburned",2025-03-04
+2025-03-04,"98","qudo","poor","holes, fungus, galleries",50,NA,1,"unburned",2025-03-04
+2025-03-04,"135","qudo","good","none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"134","quag","excellent","none",0,NA,4,"unburned",2025-03-04
+2025-03-04,"130","qudo","poor","holes, galleries, fungus",50,NA,1,"unburned",2025-03-04
+2025-03-04,"131","quag","excellent","holes",3,NA,4,"unburned",2025-03-04
+2025-03-04,"132","quag","good","fungus",0,NA,3,"unburned",2025-03-04
+2025-03-04,"136","qudo","fair","holes, galleries, fungus",15,NA,2,"unburned",2025-03-04
+2025-03-04,"137","qudo","excellent","none",0,NA,4,"unburned",2025-03-04
+2025-03-04,"117","qudo","excellent","none",0,NA,4,"unburned",2025-03-04
+2025-03-04,"118","qudo","poor","holes, galleries, fungus",50,NA,1,"unburned",2025-03-04
+2025-03-04,"142","qudo","good","fungus, none",0,NA,3,"unburned",2025-03-04
+2025-03-04,"115","quag","fair","holes,",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"114","quag","fair","holes, galleries, fungus",35,NA,2,"unburned",2025-03-04
+2025-03-04,"139","qudo","fair","holes, galleries, fungus",50,NA,2,"unburned",2025-03-04
+2025-03-04,"93","qudo","fair","holes",7.5,NA,2,"unburned",2025-03-04
+2025-03-04,"94","qudo","fair","fungus",0,NA,2,"unburned",2025-03-04
+2025-03-04,"95","quag","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"96","qudo","poor","holes",50,NA,1,"unburned",2025-03-04
+2025-03-04,"101","quag","good","holes",15,NA,3,"unburned",2025-03-04
+2025-03-04,"102","quag","good","holes, galleries",15,NA,3,"unburned",2025-03-04
+2025-03-04,"103","quag","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"104","quag","good","holes",3,NA,3,"unburned",2025-03-04
+2025-03-04,"105","qudo","fair",NA,0,NA,2,"unburned",2025-03-04
+2025-03-04,"100","quag","good","holes",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"99","qudo","fair","holes, galleries",50,NA,2,"unburned",2025-03-04
+2025-03-04,"106","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"107","qudo","poor","holes, fungus, galleries",15,NA,1,"unburned",2025-03-04
+2025-03-04,"108","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"111","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"112","quag","good","holes",3,NA,3,"unburned",2025-03-04
+2025-03-04,"116","quag","fair","holes",15,NA,2,"unburned",2025-03-04
+2025-03-04,"113","quag","poor","holes",7.5,NA,1,"unburned",2025-03-04
+2025-03-04,"109","quag","good","holes, fungus",7.5,NA,3,"unburned",2025-03-04
+2025-03-04,"110","quag","good","holes",15,NA,3,"unburned",2025-03-04
+2025-03-04,"141","qudo","fair","none",0,NA,2,"unburned",2025-03-04
+2025-03-04,"140","qudo","fair","holes",3,NA,2,"unburned",2025-03-04
+2025-04-12,"119","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"120","qudo","excellent","holes",3,NA,4,"unburned",2025-04-12
+2025-04-12,"121","quag","excellent","holes",3,NA,4,"unburned",2025-04-12
+2025-04-12,"122","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"123","qudo","good","holes, fungus",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"125","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"127","quag","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"135","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"134","quag","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"131","quag","excellent","holes, fungus",7.5,NA,4,"unburned",2025-04-12
+2025-04-12,"132","quag","good","holes",3,NA,3,"unburned",2025-04-12
+2025-04-12,"133","qudo","good","holes, fungus",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"141","qudo","poor","fungus",0,NA,1,"unburned",2025-04-12
+2025-04-12,"140","qudo","poor","none",0,NA,1,"unburned",2025-04-12
+2025-04-12,"137","qudo","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"117","qudo","good","none",50,NA,3,"unburned",2025-04-12
+2025-04-12,"116","quag","good","holes, fungus",7.5,NA,3,"unburned",2025-04-12
+2025-04-12,"115","quag","good","hole, fungus",3,NA,3,"unburned",2025-04-12
+2025-04-12,"114","quag","good","holes, fungus, galleries",25,NA,3,"unburned",2025-04-12
+2025-04-12,"109","quag","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"110","quag","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"103","quag","excellent","fungus (black staining)",0,NA,4,"unburned",2025-04-12
+2025-04-12,"102","quag","good","holes? ( see pic)",3,NA,3,"unburned",2025-04-12
+2025-04-12,"101","quag","excellent","holes",7.5,NA,4,"unburned",2025-04-12
+2025-04-12,"96","qudo","fair","holes",35,NA,2,"unburned",2025-04-12
+2025-04-12,"95","qudo","good","holes, fungus",3,NA,3,"unburned",2025-04-12
+2025-04-12,"94","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"97","qudo","poor","holes, fungus,",50,NA,1,"unburned",2025-04-12
+2025-04-12,"98","qudo","poor","holes, fungus,",50,NA,1,"unburned",2025-04-12
+2025-04-12,"126","qudo","excellent","none",0,NA,4,"unburned",2025-04-12
+2025-04-12,"100","quag","good","none",0,NA,3,"unburned",2025-04-12
+2025-04-12,"93","qudo","good","holes, fungus",3,NA,3,"unburned",2025-04-12
+2025-04-12,"107","qudo","poor","holes, fungus, galleries",45,NA,1,"unburned",2025-04-12
+2025-05-20,"93","qudo","good","holes, fungus",15,NA,3,"unburned",2025-05-25
+2025-05-20,"675","qudo","fair","holes, fungus",7.5,NA,2,"unburned",2025-05-25
+2025-05-20,"119","qudo","excellent","holes",3,NA,4,"unburned",2025-05-25
+2025-05-20,"121","quag","good","holes, fungus",7.5,NA,3,"unburned",2025-05-25
+2025-05-20,"120","qudo","fair","holes, fungus",15,NA,2,"unburned",2025-05-25
+2025-05-20,"123","qudo","fair","holes, fungus",15,NA,2,"unburned",2025-05-25
+2025-05-20,"125","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"126","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-20,"127","quag","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"94","qudo","excellent","fungus",0,NA,4,"unburned",2025-05-25
+2025-05-20,"95","quag","good","holes, fungus",3,NA,3,"unburned",2025-05-25
+2025-05-20,"96","qudo","fair","holes, fungus, galleries",50,NA,2,"unburned",2025-05-25
+2025-05-20,"101","quag","good","holes, fungus, bore dust",50,NA,3,"unburned",2025-05-25
+2025-05-20,"102","quag","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"103","quag","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"104","quag","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"105","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"99","qudo","fair","holes, galleries, fungus, bore dust",50,NA,2,"unburned",2025-05-25
+2025-05-20,"100","quag","good","holes, fungus",3,NA,3,"unburned",2025-05-25
+2025-05-20,"106","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"lost tag","qudo","poor","holes, galleries, fungus",0,NA,1,"unburned",2025-05-25
+2025-05-20,"108","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"111","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-20,"109","quag","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"110","quag","good","holes",7.5,NA,3,"unburned",2025-05-25
+2025-05-20,"115","quag","fair","holes, fungus",7.5,NA,2,"unburned",2025-05-25
+2025-05-20,"114","quag","fair","holes, fungus, galleries",50,NA,2,"unburned",2025-05-25
+2025-05-20,"113","quag","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"112","quag","good","fungus, holes",7.5,NA,3,"unburned",2025-05-25
+2025-05-20,"128","qudo","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"131","quag","good","holes, fungus",15,NA,3,"unburned",2025-05-25
+2025-05-20,"132","quag","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-20,"134","quag","excellent","none)",0,NA,4,"unburned",2025-05-25
+2025-05-20,"135","qudo","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"136","qudo","good","fungus, holes",25,NA,3,"unburned",2025-05-25
+2025-05-20,"137","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-20,"117","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-20,"141","qudo","fair","fungus",0,NA,2,"unburned",2025-05-25
+2025-05-20,"140","qudo","fair","holes",7.5,NA,2,"unburned",2025-05-25
+2025-05-20,"139","qudo","fair","holes, fungus, galleries",50,NA,2,"unburned",2025-05-25
+2025-05-20,"142","qudo","good","fungus",0,NA,3,"unburned",2025-05-25
+2025-05-20,"122","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2371","qudo","good","holes, fungi",15,NA,3,"unburned",2025-05-25
+2025-05-29,"2372","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2373","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-29,"2306","qudo","good","holes, fungus",25,NA,3,"unburned",2025-05-25
+2025-05-29,"2305","qudo","good","fungi",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2304","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2303","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-29,"2302","qudo","good","holes, fungus",7.5,NA,3,"unburned",2025-05-25
+2025-05-29,"2301","quag","good","holes, fungus",3,NA,3,"unburned",2025-05-25
+2025-05-29,"2336","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-29,"2334","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2376","quag","excellent","holes, fungus",3,NA,4,"unburned",2025-05-25
+2025-05-29,"2369","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2367","qudo","good","holes",7.5,NA,3,"unburned",2025-05-25
+2025-05-29,"2365","qudo","good","holes, fungus",3,NA,3,"unburned",2025-05-25
+2025-05-29,"2364","qudo","good","holes, fungus",15,NA,3,"unburned",2025-05-25
+2025-05-29,"2366","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-29,"2363","qudo","excellent","none",0,NA,4,"unburned",2025-05-25
+2025-05-29,"2362","qudo","fair","holes, fungus,",25,NA,2,"unburned",2025-05-25
+2025-05-29,"2361","qudo","good","holes",7.5,NA,3,"unburned",2025-05-25
+2025-05-29,"2360","qudo","good","holes",7.5,NA,3,"unburned",2025-05-25
+2025-05-29,"2356","qudo","good","holes, fungus",7.5,NA,3,"unburned",2025-05-25
+2025-05-29,"2357","qudo","good","holes, fungus",3,NA,3,"unburned",2025-05-25
+2025-05-29,"2359","qudo","good","none",0,NA,3,"unburned",2025-05-25
+2025-05-29,"2370","qudo","good","hole, fungus",25,NA,3,"unburned",2025-05-25
+2025-05-29,"2010","qudo","good","holes",25,NA,3,"unburned",2025-05-25
+2025-05-29,"2011","qudo","good","holes",7.5,NA,3,"unburned",2025-05-25
+2025-06-27,"2370","quag","good","holes, fungus",25,NA,3,"unburned",2025-06-27
+2025-06-27,"2371","qudo","excellent","holes",7.5,NA,4,"unburned",2025-06-27
+2025-06-27,"2372","qudo","good","holes, fungus",3,NA,3,"unburned",2025-06-27
+2025-06-27,"2307","qudo","fair","holes, fungus",15,NA,2,"unburned",2025-06-27
+2025-06-27,"2306","qudo","good","holes, fungus",15,NA,3,"unburned",2025-06-27
+2025-06-27,"2305","qudo","good","holes",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"2304","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2303","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2302","qudo","excellent","holes",7.5,NA,4,"unburned",2025-06-27
+2025-06-27,"2301","quag","good","hole",3,NA,3,"unburned",2025-06-27
+2025-06-27,"2334","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2332","qudo","fair","holes, galleries, fungus",35,NA,2,"unburned",2025-06-27
+2025-06-27,"2336","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2354","quag","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2353","quag","excellent","holes",3,NA,4,"unburned",2025-06-27
+2025-06-27,"2355","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2357","qudo","fair","holes, fungus",7.5,NA,2,"unburned",2025-06-27
+2025-06-27,"2358","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2359","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2360","qudo","good","holes",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"2361","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2362","qudo","fair","holes, fungus",15,NA,2,"unburned",2025-06-27
+2025-06-27,"2363","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2364","qudo","good","holes, fungus",20,NA,3,"unburned",2025-06-27
+2025-06-27,"2365","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2366","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2367","qudo","good","holes",35,NA,3,"unburned",2025-06-27
+2025-06-27,"2369","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2343","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2344","qudo","excellent","holes",3,NA,4,"unburned",2025-06-27
+2025-06-27,"2346","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"2347","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2348","qudo","good","holes",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"2349","qudo","good","holes",15,NA,3,"unburned",2025-06-27
+2025-06-27,"2350","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2351","qudo","good","holes, fungus",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"2009","qudo","good","holes",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"2375","qudo","good","holes",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"tag fell off, big one close to rd","quag","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2370","qudo","good","10-20",15,NA,3,"unburned",2025-06-27
+2025-06-27,"2371","qudo","excellent","holes",3,NA,4,"unburned",2025-06-27
+2025-06-27,"2383","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2381","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2384","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"2382","qudo","excellent","holes",3,NA,4,"unburned",2025-06-27
+2025-06-27,"2310","qudo","excellent","holes",7.5,NA,4,"unburned",2025-06-27
+2025-06-27,"120","qudo","excellent","holes",7.5,NA,4,"unburned",2025-06-27
+2025-06-27,"675","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"93","qudo","good","holes",3,NA,3,"unburned",2025-06-27
+2025-06-27,"122","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"126","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"127","quag","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"97","qudo","poor","holes, fungus, galleries, bore dust",50,NA,1,"unburned",2025-06-27
+2025-06-27,"98","qudo","poor","holes",50,NA,1,"unburned",2025-06-27
+2025-06-27,"94","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"95","quag","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"96","qudo","poor","holes",35,NA,1,"unburned",2025-06-27
+2025-06-27,"101","quag","excellent","20-30",0,NA,4,"unburned",2025-06-27
+2025-06-27,"99","qudo","fair","holes, galleries",50,NA,2,"unburned",2025-06-27
+2025-06-27,"100","quag","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"106","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"105","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"104","quag","excellent","fungus",0,NA,4,"unburned",2025-06-27
+2025-06-27,"102","quag","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"103","quag","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"108","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"109","quag","excellent","holes",3,NA,4,"unburned",2025-06-27
+2025-06-27,"110","quag","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"115","quag","good","holes",3,NA,3,"unburned",2025-06-27
+2025-06-27,"114","quag","good","holes",50,NA,3,"unburned",2025-06-27
+2025-06-27,"111","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"108","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"128","qudo","good","holes, fungus",3,NA,3,"unburned",2025-06-27
+2025-06-27,"112","quag","good","holes",3,NA,3,"unburned",2025-06-27
+2025-06-27,"113","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"116","quag","fair","holes, fungus",15,"quag",2,"unburned",2025-06-27
+2025-06-27,"137","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"117","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"118","qudo","fair","holes, fungus",50,NA,2,"unburned",2025-06-27
+2025-06-27,"142","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"140","qudo","good","none",0,NA,3,"unburned",2025-06-27
+2025-06-27,"141","qudo","fair","none",0,NA,2,"unburned",2025-06-27
+2025-06-27,"136","qudo","good","holes, fungus",15,NA,3,"unburned",2025-06-27
+2025-06-27,"132","quag","good","holes",7.5,NA,3,"unburned",2025-06-27
+2025-06-27,"131","quag","good","holes",15,NA,3,"unburned",2025-06-27
+2025-06-27,"134","quag","excellent","none",0,NA,4,"unburned",2025-06-27
+2025-06-27,"135","qudo","excellent","none",0,NA,4,"unburned",2025-06-27
+2024-11-20,"86","quag","fair","holes",35,NA,2,"burned",2024-12-01
+2024-11-20,"84","quag","fair","holes",55,NA,2,"burned",2024-12-01
+2024-11-20,"66, 83, 82","quag","good","none",0,"branches labelled differently",3,"burned",2024-12-01
+2024-11-20,"535","quag","fair","holes, fungus",0,NA,2,"burned",2024-12-01
+2024-11-20,"65","quag","good","none",0,NA,3,"burned",2024-12-01
+2024-11-20,"67","qudo","good","holes",7.5,NA,3,"burned",2024-12-01
+2024-11-20,"81","qudo","poor","holes",3,NA,1,"burned",2024-12-01
+2024-11-20,"80","qudo","fair","holes, fungus",7.5,"scorched base",2,"burned",2024-12-01
+2024-11-20,"79","quag","good","holes",15,NA,3,"burned",2024-12-01
+2024-11-20,"78","quag","good","holes, fungus",25,NA,3,"burned",2024-12-01
+2024-11-20,"77","quag","good","holes",25,NA,3,"burned",2024-12-01
+2024-11-20,"76","quag","poor","holes, galleries",55,"20-30 on base, up to 100 on dead branch",1,"burned",2024-12-01
+2024-11-20,"72","quag","fair","holes, galleries",55,NA,2,"burned",2024-12-01
+2024-11-20,"75","qudo","fair","holes, galleries, fungus",0,NA,2,"burned",2024-12-01
+2024-11-20,"532","quag","poor","holes, wet stain",15,NA,1,"burned",2024-12-01
+2024-11-20,"534","quag","fair","holes, fungus",25,"see pic",2,"burned",2024-12-01
+2024-11-20,"69","qudo","poor","holes",25,NA,1,"burned",2024-12-01
+2024-11-20,"70","quag","fair","holes",3,NA,2,"burned",2024-12-01
+2024-11-20,"68","quag","good","holes",15,NA,3,"burned",2024-12-01
+2024-11-20,"85","qudo","excelent","none",0,NA,NA,"burned",2024-12-01
+2025-01-16,"68","quag","good","holes",3,NA,3,"burned",2025-01-16
+2025-01-16,"77","quag","excellent","holes",15,"one branch",4,"burned",2025-01-16
+2025-01-16,"76","quag","good","holes, boring dust, galleries",25,NA,3,"burned",2025-01-16
+2025-01-16,"74","quag","good","holes, boring dust",15,NA,3,"burned",2025-01-16
+2025-01-16,"73","quag","excellent","none",0,NA,4,"burned",2025-01-16
+2025-01-16,"519","qudo","good","holes",7.5,NA,3,"burned",2025-01-16
+2025-01-16,"511","qudo","good","holes",3,NA,3,"burned",2025-01-16
+2025-01-16,"75","quag","poor","holes, fungus, staining, galleries",50,NA,1,"burned",2025-01-16
+2025-01-16,"65","quag","good","holes",3,NA,3,"burned",2025-01-16
+2025-01-16,"67","qudo","good","none",0,NA,3,"burned",2025-01-16
+2025-01-16,"85","qudo","good","none",0,NA,3,"burned",2025-01-16
+2025-01-16,"675","qudo","good","holes, fungus",3,NA,3,"burned",2025-01-16
+2025-01-16,"94","qudo","good","none",0,NA,3,"burned",2025-01-16
+2025-01-16,"95","quag","fair","holes",3,NA,2,"burned",2025-01-16
+2025-01-16,"96","qudo","poor","holes, black fungus",35,NA,1,"burned",2025-01-16
+2025-01-16,"66, 83, 82","quag","good","none",0,NA,3,"burned",2025-01-16
+2025-01-16,"84","quag","fair","holes",25,NA,2,"burned",2025-01-16
+2025-01-16,"86","quag","fair","holes, fungus",15,NA,2,"burned",2025-01-16
+2025-01-16,"81","qudo","fair","none",0,NA,2,"burned",2025-01-16
+2025-01-16,"80","qudo","fair","none",0,NA,2,"burned",2025-01-16
+2025-01-16,"79","quag","good","none",0,NA,3,"burned",2025-01-16
+2025-01-16,"78","quag","good","holes",15,NA,3,"burned",2025-01-16
+2025-01-16,"72","quag","fair","holes, galleries",25,NA,2,"burned",2025-01-16
+2025-01-16,"70","quag","good","holes",3,NA,3,"burned",2025-01-16
+2025-01-16,"69","qudo","good","holes",15,NA,3,"burned",2025-01-16
+2025-01-16,"514","qudo","excellent","none",0,NA,4,"burned",2025-01-16
+2025-01-16,"515","qudo","excellent","none",0,NA,4,"burned",2025-01-16
+2025-01-16,"513","qudo","excellent","none",0,NA,4,"burned",2025-01-16
+2025-01-16,"512","qudo","excellent","none",0,NA,4,"burned",2025-01-16
+2025-01-16,"532","quag","fair","holes",35,NA,2,"burned",2025-01-16
+2025-01-16,"533","quag","excellent","none",0,NA,4,"burned",2025-01-16
+2025-01-16,"534","quag","fair","holes, galleries",25,NA,2,"burned",2025-01-16
+2025-01-16,"535","quag","good","fungus",0,NA,3,"burned",2025-01-16
+2025-01-16,"536","quag","good","none",0,NA,3,"burned",2025-01-16
+2025-03-04,"65","quag","good","none",0,NA,3,"burned",2025-03-04
+2025-03-04,"67","qudo","excellent","holes",3,NA,4,"burned",2025-03-04
+2025-03-04,"511","qudo","good","holes",3,NA,3,"burned",2025-03-04
+2025-03-04,"69","qudo","fair","holes, fungus, 30-40",35,NA,2,"burned",2025-03-04
+2025-03-04,"72","quag","fair","holes, fungus (black), galleries",35,NA,2,"burned",2025-03-04
+2025-03-04,"76","quag","good","holes, galleries, fungus",25,NA,3,"burned",2025-03-04
+2025-03-04,"77","quag","good","holes, galleries,  fungus",15,NA,3,"burned",2025-03-04
+2025-03-04,"78","quag","good","holes, fungus",7.5,NA,3,"burned",2025-03-04
+2025-03-04,"75","qudo","poor","holes, fungus, galleries",50,NA,1,"burned",2025-03-04
+2025-03-04,"675","qudo","fair","holes, fungus",25,NA,2,"burned",2025-03-04
+2025-03-04,"86","quag","fair","holes, fungus",15,NA,2,"burned",2025-03-04
+2025-03-04,"85","qudo","fair","none",0,NA,2,"burned",2025-03-04
+2025-03-04,"82","quag","good","none",0,NA,3,"burned",2025-03-04
+2025-03-04,"84","quag","poor","holes",50,NA,1,"burned",2025-03-04
+2025-03-04,"83","quag","fair","holes",15,NA,2,"burned",2025-03-04
+2025-03-04,"66","quag","good","holes",3,NA,3,"burned",2025-03-04
+2025-03-04,"81","qudo","poor","holes",7.5,NA,1,"burned",2025-03-04
+2025-03-04,"80","qudo","poor","holes",15,NA,1,"burned",2025-03-04
+2025-03-04,"79","quag","fair","holes",15,NA,2,"burned",2025-03-04
+2025-03-04,"73","quag","fair","holes",7.5,NA,2,"burned",2025-03-04
+2025-03-04,"74","quag","fgood","holes",25,NA,NA,"burned",2025-03-04
+2025-03-04,"70","quag","fair","holes",7.5,NA,2,"burned",2025-03-04
+2025-03-04,"68","quag","good","holes",7.5,NA,3,"burned",2025-03-04
+2025-04-12,"85","qudo","good","none",0,NA,3,"burned",2025-04-12
+2025-04-12,"86/538etc","quag","fair","holes, fungi",25,NA,2,"burned",2025-04-12
+2025-04-12,"84","quag","poor","holes",35,NA,1,"burned",2025-04-12
+2025-04-12,"66,83,82","quag","good","holes",30,NA,3,"burned",2025-04-12
+2025-04-12,"535","quag","good","holes, fungus",15,NA,3,"burned",2025-04-12
+2025-04-12,"533/532","quag","fair","holes, fungus, wet stain",15,NA,2,"burned",2025-04-12
+2025-04-12,"65","quag","excellent","holes",3,NA,4,"burned",2025-04-12
+2025-04-12,"67","qudo","good","none",0,NA,3,"burned",2025-04-12
+2025-04-12,"81","qudo","poor","holes, fungus",7.5,NA,1,"burned",2025-04-12
+2025-04-12,"80","qudo","fair","holes, fungus",7.5,NA,2,"burned",2025-04-12
+2025-04-12,"79","quag","good","holes, fungus",15,NA,3,"burned",2025-04-12
+2025-04-12,"78","quag","fair","holes, fungus",25,NA,2,"burned",2025-04-12
+2025-04-12,"77","quag","good","holes, fungus",7.5,NA,3,"burned",2025-04-12
+2025-04-12,"76","quag","good","holes, fungus, galleries, boring dust",35,NA,3,"burned",2025-04-12
+2025-04-12,"72","quag","fair","holes, fungus, galleries, boring dust",50,NA,2,"burned",2025-04-12
+2025-04-12,"74","quag","good","holes, fungus, boring dust",25,NA,3,"burned",2025-04-12
+2025-04-12,"73","quag","good","holes",3,NA,3,"burned",2025-04-12
+2025-04-12,"518","qudo","good","none",0,NA,3,"burned",2025-04-12
+2025-04-12,"519","qudo","excellent","holes,",7.5,NA,4,"burned",2025-04-12
+2025-04-12,"516/517","qudo","excellent","holes",3,NA,4,"burned",2025-04-12
+2025-04-12,"511","qudo","excellent","holes",3,NA,4,"burned",2025-04-12
+2025-04-12,"512/513/14/15","qudo","good","none",0,NA,3,"burned",2025-04-12
+2025-04-12,"69","qudo","fair","holes",7.5,NA,2,"burned",2025-04-12
+2025-04-12,"75","qudo","poor","holes, fungus, galleries",50,NA,1,"burned",2025-04-12
+2025-04-12,"70","quag","fair","none",0,NA,2,"burned",2025-04-12
+2025-04-12,"675","qudo","good","holes",3,NA,3,"burned",2025-04-12
+2025-05-20,"535","quag","fair","holes, fungus, galleries, boring dust",50,NA,2,"burned",2025-05-25
+2025-05-20,"533","quag","fungus, holes,","good",3,NA,NA,"burned",2025-05-25
+2025-05-20,"65","quag","good","holes",3,NA,3,"burned",2025-05-25
+2025-05-20,"66","quag","good","holes, fungus",3,NA,3,"burned",2025-05-25
+2025-05-20,"82/527","quag","excellent","none",0,NA,4,"burned",2025-05-25
+2025-05-20,"83","quag","fair","holes",15,NA,2,"burned",2025-05-25
+2025-05-20,"84","quag","fair","holes",15,NA,2,"burned",2025-05-25
+2025-05-20,"67","qudo","good","holes",7.5,NA,3,"burned",2025-05-25
+2025-05-20,"68","quag","good","holes",3,NA,3,"burned",2025-05-25
+2025-05-20,"69","qudo","fair","holes, fungus, boring dust",25,NA,2,"burned",2025-05-25
+2025-05-20,"70","quag","good","none",0,NA,3,"burned",2025-05-25
+2025-05-20,"74","quag","excellent","holes, fungus",7.5,NA,4,"burned",2025-05-25
+2025-05-20,"72","quag","fair","holes, fungus, galleries, bore dust",50,NA,2,"burned",2025-05-25
+2025-05-20,"76","quag","fair","holes, fungus, bore holes, galleries",50,NA,2,"burned",2025-05-25
+2025-05-20,"77","quag","good","holes, fungus",25,NA,3,"burned",2025-05-25
+2025-05-20,"78","quag","good","holes",7.5,NA,3,"burned",2025-05-25
+2025-05-20,"79","quag","good","holes",3,NA,3,"burned",2025-05-25
+2025-05-20,"80","qudo","fair","holes, fungus",7.5,NA,2,"burned",2025-05-25
+2025-05-20,"81","quag","fair","holes, fungus",7.5,NA,2,"burned",2025-05-25
+2025-05-20,"86","quag","good","holes, fungus",15,NA,3,"burned",2025-05-25
+2025-05-20,"73","quag","excellent","none",0,NA,4,"burned",2025-05-25
+2025-05-20,"75","qudo","poor","holes, fungus, galleries",NA,NA,1,"burned",2025-05-25
+2025-06-27,"65","quag","excellent","holes",7.5,NA,4,"burned",2025-06-27
+2025-06-27,"66","quag","excellent","holes",7.5,NA,4,"burned",2025-06-27
+2025-06-27,"67","qudo","good","none",0,NA,3,"burned",2025-06-27
+2025-06-27,"68","quag","good","holes, fungus",15,NA,3,"burned",2025-06-27
+2025-06-27,"69","qudo","fair","holes",7.5,NA,2,"burned",2025-06-27
+2025-06-27,"70","quag","good","holes",3,NA,3,"burned",2025-06-27
+2025-06-27,"72","quag","good","holes, fungus",25,NA,3,"burned",2025-06-27
+2025-06-27,"73","quag","excellent","none",0,NA,4,"burned",2025-06-27
+2025-06-27,"74","quag","good","holes, fungus",3,NA,3,"burned",2025-06-27
+2025-06-27,"75","qudo","poor","holes, fungus, galleries",50,NA,1,"burned",2025-06-27
+2025-06-27,"76","quag","good","holes, galleries, fungus",35,NA,3,"burned",2025-06-27
+2025-06-27,"77","quag","good","holes",7.5,NA,3,"burned",2025-06-27
+2025-06-27,"78","quag","fair","holes",15,NA,2,"burned",2025-06-27
+2025-06-27,"79","quag","good","holes",25,NA,3,"burned",2025-06-27
+2025-06-27,"80","qudo","fair","holes , fungus",7.5,NA,2,"burned",2025-06-27
+2025-06-27,"81","qudo","fair","holes",7.5,NA,2,"burned",2025-06-27
+2025-06-27,"82","quag","excellent","none",0,NA,4,"burned",2025-06-27
+2025-06-27,"83","quag","fair","holes, fungus",15,NA,2,"burned",2025-06-27
+2025-06-27,"84","quag","fair","holes",35,NA,2,"burned",2025-06-27
+2025-06-27,"86","quag","good","holes",25,NA,3,"burned",2025-06-27
+2025-06-27,"511","qudo","good","holes, fungus",7.5,NA,3,"burned",2025-06-27
+2025-06-27,"532","quag","fair","holes, stained wood",15,NA,2,"burned",2025-06-27
+2025-06-27,"534+535","quag","fair","holes, fungus, gallerues",15,NA,2,"burned",2025-06-27
